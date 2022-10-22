@@ -1,2 +1,2 @@
-.ccls-cache
-bin/
+/.ccls-cache
+/bin/*
