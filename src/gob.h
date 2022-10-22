@@ -2,8 +2,8 @@
 
 class Gob {
 public:
-    virtual void input() {}
-    virtual void process(float delta) {}
-    virtual void draw() {}
+    inline virtual void input() {}
+    inline virtual void process(float delta) {}
+    inline virtual void draw() {}
 };
 
