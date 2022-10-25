@@ -1,0 +1,2 @@
+map("n", "<F4>", ":!python make.py debug<cr>")
+map("n", "<F5>", ":!./bin/cyberpunk_dbg<cr>")
